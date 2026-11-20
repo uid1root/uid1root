@@ -1,23 +1,16 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:FF9900&height=220&section=header&text=Platform%20Engineering%20%26%20DevOps&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=do%20mercado%20para%20a%20sala%20de%20aula&descAlignY=58&descSize=18" alt="banner"/>
+  <img src="./assets/banner.svg" alt="Vinicius Cavalcanti · DevOps e Gestão" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Head+de+Platform+Engineering+%26+DevOps;Professor+e+Coordenador+do+MBA+na+Impacta;10+certifica%C3%A7%C3%B5es+%7C+AWS+%C2%B7+Linux+Foundation+%C2%B7+LPI;Automatizando+tudo+que+se+repete+%F0%9F%9A%80" alt="typing"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-cavalcantii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tux.cavalcanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.impacta.edu.br"><img src="https://img.shields.io/badge/MBA_Cloud_%26_DevOps-Impacta-E30613?style=for-the-badge&labelColor=1a1a1a"/></a>
 </p>
 
 ---
 
-## 👋 Olá! Eu sou SEU_NOME
+## 👋 Olá! Eu sou o Vinicius
 
 Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem times inteiros entregarem software com mais velocidade e segurança; à noite, levo essa experiência real para a sala de aula.
 
@@ -48,7 +41,7 @@ Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem ti
 apiVersion: humano/v1
 kind: PlatformEngineer
 metadata:
-  name: SEU_NOME
+  name: vinicius-cavalcanti
   labels:
     papel: head-platform-engineering-devops
     missao: ensinar-e-automatizar
@@ -118,37 +111,17 @@ spec:
 
 ---
 
-## 🎓 Para meus alunos
+## 📚 Formação
 
-> *"Nuvem não se aprende só lendo: suba, quebre, conserte e documente."*
+<table>
+  <tr>
+    <td align="center" width="33%">💻<br/><b>Sistemas de Informação</b><br/><sub>Graduação</sub></td>
+    <td align="center" width="33%">🤝<br/><b>Gestão de Pessoas</b><br/><sub>Pós-graduação</sub></td>
+    <td align="center" width="33%">📈<br/><b>Gestão de Negócios</b><br/><sub>Fundação Dom Cabral · <i>cursando</i></sub></td>
+  </tr>
+</table>
 
-Se você está começando (ou recomeçando) em Cloud & DevOps, este é o caminho que eu recomendo:
-
-```mermaid
-flowchart LR
-    A[🐧 Linux] --> B[🌐 Redes]
-    B --> C[🔀 Git]
-    C --> D[🐳 Containers]
-    D --> E[☁️ Cloud AWS]
-    E --> F[🏗️ IaC<br/>Terraform]
-    F --> G[⚙️ CI/CD]
-    G --> H[☸️ Kubernetes]
-    H --> I[📈 Observabilidade]
-    I --> J[🚀 Platform<br/>Engineering]
-```
-
-- 📌 **Dúvida de aula?** Abra uma *issue* no repositório da disciplina, que a sua pergunta pode ajudar a turma inteira.
-- 🧪 **Pratique em público:** coloque seus labs no GitHub. Portfólio vale mais que certificado sozinho.
-- 🤝 **Me chame no LinkedIn** e conte o que você construiu, eu adoro ver projetos de alunos!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<sub>Da base técnica à liderança: tecnologia para construir, gestão de pessoas para escalar times e visão de negócios para gerar impacto.</sub>
 
 ---
 
@@ -156,7 +129,3 @@ flowchart LR
 
 Pai do **Theodoro** e marido da **Aline**: é com eles que eu faço o *deploy* mais importante da semana. 💙
 Acredito que bons engenheiros são, antes de tudo, boas pessoas, e que ensinar é a melhor forma de aprender de novo.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
