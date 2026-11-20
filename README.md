@@ -91,7 +91,9 @@ Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem ti
 
 ## 📚 Formação
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
     <td align="center" width="33%">💻<br/><b>Sistemas de Informação</b><br/><sub>Graduação</sub></td>
     <td align="center" width="33%">🤝<br/><b>Gestão de Pessoas</b><br/><sub>Pós-graduação</sub></td>
@@ -99,7 +101,9 @@ Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem ti
   </tr>
 </table>
 
-<sub>Da base técnica à liderança: tecnologia para construir, gestão de pessoas para escalar times e visão de negócios para gerar impacto.</sub>
+</div>
+
+<p align="center"><sub>Da base técnica à liderança: tecnologia para construir, gestão de pessoas para escalar times e visão de negócios para gerar impacto.</sub></p>
 
 ---
 
