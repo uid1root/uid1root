@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-cavalcantii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tux.cavalcanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.impacta.edu.br"><img src="https://img.shields.io/badge/MBA_Cloud_%26_DevOps-Impacta-E30613?style=for-the-badge&labelColor=1a1a1a"/></a>
+  <a href="https://mba.impacta.edu.br/mbas/cloud-computing-devops/"><img src="https://img.shields.io/badge/MBA_Cloud_%26_DevOps-Impacta-E30613?style=for-the-badge&labelColor=1a1a1a"/></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem ti
     <td width="50%" valign="top">
       <h3>🎓 Na academia</h3>
       <ul>
-        <li><b>Professor e Coordenador</b> do MBA de Cloud Computing & DevOps da <b>Impacta</b></li>
+        <li><b>Professor e Coordenador</b> do <a href="https://mba.impacta.edu.br/mbas/cloud-computing-devops/">MBA de Cloud Computing & DevOps</a> da <b>Impacta</b></li>
         <li><b>AWS Academy Accredited Educator</b></li>
         <li>Ensino o que uso em produção, não só o que está no slide</li>
         <li>Formando a próxima geração de engenheiros de plataforma 🌱</li>
