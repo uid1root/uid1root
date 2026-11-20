@@ -37,31 +37,9 @@ Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem ti
   </tr>
 </table>
 
-```yaml
-apiVersion: humano/v1
-kind: PlatformEngineer
-metadata:
-  name: vinicius-cavalcanti
-  labels:
-    papel: head-platform-engineering-devops
-    missao: ensinar-e-automatizar
-spec:
-  mercado: Head de Platform Engineering & DevOps
-  academia: Professor & Coordenador · MBA Cloud Computing & DevOps · Impacta
-  familia:
-    esposa: Aline ❤️
-    filho: Theodoro 👶
-  replicas: 1            # não escala horizontalmente, mas é altamente disponível 😄
-  restartPolicy: Always  # café ☕
-```
-
 ---
 
 ## 🏅 Certificações
-
-<p align="center">
-  <img src="./assets/certificacoes.png" alt="Certificações AWS, Linux Foundation e LPI" width="100%"/>
-</p>
 
 <table align="center">
   <tr>
