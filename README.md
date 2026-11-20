@@ -109,5 +109,5 @@ Vivo **dois mundos que se alimentam**: de dia, construo plataformas que fazem ti
 
 ## 🏡 Fora do terminal
 
-Pai do **Theodoro** e marido da **Aline**: é com eles que eu faço o *deploy* mais importante da semana. 💙
+Pai do **Theodoro** e esposo da **Aline**. Eles são o combustível da minha vida.
 Acredito que bons engenheiros são, antes de tudo, boas pessoas, e que ensinar é a melhor forma de aprender de novo.
